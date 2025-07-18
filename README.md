@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Valéria Ramos ⚡ </h1>
 
-<h3 align="center">Apaixonada por tecnologia e inovação e pela área de Testes e Qualidade de Software!🌍</h3>
-
 
 📚   Sou formada em Análise e Desenvolvimento de Sistemas pela Univerdidade UniAteneu.💖 
 
